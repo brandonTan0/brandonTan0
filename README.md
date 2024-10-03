@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A Software Developer Student in Chicago</h3>
+<h3 align="center">A Software Developer Student in Madison</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQwNnNpYTBhMXNkcjU2NHkwcHU3bmw2a2d6eWNrMjNwb3ZuOWticyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 <h4>Skills and Experince</h4>
